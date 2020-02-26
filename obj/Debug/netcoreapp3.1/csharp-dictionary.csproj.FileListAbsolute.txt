@@ -1,0 +1,10 @@
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/bin/Debug/netcoreapp3.1/csharp-dictionary.deps.json
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/bin/Debug/netcoreapp3.1/csharp-dictionary.runtimeconfig.json
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/bin/Debug/netcoreapp3.1/csharp-dictionary.runtimeconfig.dev.json
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/bin/Debug/netcoreapp3.1/csharp-dictionary.dll
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/bin/Debug/netcoreapp3.1/csharp-dictionary.pdb
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/obj/Debug/netcoreapp3.1/csharp-dictionary.csprojAssemblyReference.cache
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/obj/Debug/netcoreapp3.1/csharp-dictionary.AssemblyInfoInputs.cache
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/obj/Debug/netcoreapp3.1/csharp-dictionary.AssemblyInfo.cs
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/obj/Debug/netcoreapp3.1/csharp-dictionary.dll
+/Users/taylorcarroll/workspace/C37/csharp-dictionary/obj/Debug/netcoreapp3.1/csharp-dictionary.pdb
